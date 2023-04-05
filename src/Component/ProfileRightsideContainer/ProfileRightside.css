@@ -1,0 +1,56 @@
+.ProfileRightside{
+    flex: 1;
+    margin-right: -4pc;
+}
+
+.profilerightcontainer{
+    width: 18pc;
+    height: 34vh;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.rightcontainer2{
+    width: 18pc;
+    height: 65vh;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 15px;
+    overflow-y: scroll;
+    overflow: hidden;
+}
+
+.adsimg{
+    width: 130px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.adsContainer{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.Profileimage{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.addfriend{
+    height: 20px;
+    width: 20px;
+}
+
+.friendrequest{
+    width: 60px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 10px;
+}
